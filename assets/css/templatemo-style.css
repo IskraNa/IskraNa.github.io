@@ -147,10 +147,9 @@ html {
 .menu .image {
     margin-top: 60px;
 }
-
 .menu .image img {
-    width: 140px;
-    height: 140px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     text-align: center;
 }
