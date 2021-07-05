@@ -71,7 +71,6 @@ div#page-wraper > section.section.my-services > div > div.row > div:nth-child(3)
     list-style-type:disc;
     display: block;
     background-color: pink;
-    margin-bottom: 0.5px;
     width: 40%;
     color: rgba(202, 28, 162, 0.69);
 }
